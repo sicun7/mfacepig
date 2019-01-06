@@ -1,6 +1,6 @@
 {
     "apps": [{
-        "name": "facepig",
+        "name": "mfacepig",
         "script": "./bin/www",
         "watch": true,
         "env": {
