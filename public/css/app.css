@@ -1,0 +1,11 @@
+.logo img{
+    width: 40px !important;
+    height:40px;
+    border-radius: 7px;
+}
+
+.logo_box span{
+    color:#000;
+    font-size:16px;
+    margin-left:10px;
+}
